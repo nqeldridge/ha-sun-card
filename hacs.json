@@ -1,0 +1,6 @@
+{
+  "name": "Sun Year Card",
+  "filename": "sun-year-card.js",
+  "render_readme": true,
+  "homeassistant": "2024.1.0"
+}
